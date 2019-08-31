@@ -1,0 +1,4 @@
+baseURL = "https://spacesight.netlify.com/"
+languageCode = "en-us"
+title = "spacesight"
+theme = "air"
